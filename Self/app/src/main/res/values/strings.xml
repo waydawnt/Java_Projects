@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Self</string>
+    <string name="title_text">My Journal</string>
+    <string name="op_text">What\'s on your mind ?</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="or_text">OR</string>
+    <string name="create_new_account_text">Create Account</string>
+    <string name="username_text">Username</string>
+    <string name="register_text">Register</string>
+    <string name="post_title">Title</string>
+    <string name="post_description">Your Thoughts</string>
+    <string name="save_button_text">Save</string>
+    <string name="add_new">Add new</string>
+    <string name="signout_text">Signout</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260368620187",
+    "project_id": "noteshare-2b7fb",
+    "storage_bucket": "noteshare-2b7fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260368620187:android:40260a400c10cac3c8843e",
+        "android_client_info": {
+          "package_name": "com.spawner.noteshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260368620187-pne8tuffhp57ka74b3rqlphc51akq20g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfAoAIPxF54q0iYvuzANCPh0OTQX9ASMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260368620187-pne8tuffhp57ka74b3rqlphc51akq20g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

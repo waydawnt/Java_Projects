@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Swing Trading Calculator</string>
+    <string name="entry_point_text">Entry Price</string>
+    <string name="stop_loss_text">Stop Loss</string>
+    <string name="calculate_text">Calculate</string>
+    <string name="loss_amount_text">Loss Amount</string>
+</resources>

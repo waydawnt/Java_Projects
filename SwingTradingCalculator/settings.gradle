@@ -1,0 +1,2 @@
+rootProject.name = "Swing Trading Calculator"
+include ':app'

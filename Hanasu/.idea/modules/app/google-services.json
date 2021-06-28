@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "7994640429",
+    "firebase_url": "https://hanasu-44f4c.firebaseio.com",
+    "project_id": "hanasu-44f4c",
+    "storage_bucket": "hanasu-44f4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7994640429:android:450c328c9b28e7ef1f10a4",
+        "android_client_info": {
+          "package_name": "com.spawner.hanasu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7994640429-a47qb4ocrik6u1o5bjcb9454j6lqo9d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spawner.hanasu",
+            "certificate_hash": "06af08ea162c0c27517ba659f2eb6d91cb5f1270"
+          }
+        },
+        {
+          "client_id": "7994640429-nfujmb9kal5gor948cbn6us4eqhgjdg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHKUv7qqug16M71-3w8px3RYWCltvKNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7994640429-nfujmb9kal5gor948cbn6us4eqhgjdg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

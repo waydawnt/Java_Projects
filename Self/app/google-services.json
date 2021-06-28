@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "759505786015",
+    "firebase_url": "https://self-46e50.firebaseio.com",
+    "project_id": "self-46e50",
+    "storage_bucket": "self-46e50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759505786015:android:01792a4721de8b08b0beaa",
+        "android_client_info": {
+          "package_name": "com.spawner.self"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759505786015-9ot3tlilqstbpj01vplpu6tk62bl18g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbpgbglwQiHLNXxPB-OR4dll6B2XdS0X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759505786015-9ot3tlilqstbpj01vplpu6tk62bl18g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
